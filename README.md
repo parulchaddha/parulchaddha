@@ -8,7 +8,7 @@
 
 <!-- Brief Text About Myself -->
 <h4 align="center"> Competitive Programmer | I'm An Full Stack Developer | </h4>
-<h4 align="center"> Tech Team Member @ All About Programming | Web Developer Intern @ Codedu. </h4> 
+<h4 align="center"> Tech Member @ All About Programming | Web Developer Intern @ Codedu. </h4> 
  
 <!-- Typing Master Picture --> 
 <img align="right" alt="GIF" src="https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/images/Lady%20Programmer.gif" width="500"/>
@@ -34,7 +34,7 @@
 *Here Are Some Of The Points to know more about Me :* 
 - 🔭 I’m Currently Solving Question on - [LeetCode & Geeks for Geeks]<br>
 - 🌱 I’m Currently Learning `Full Stack Development` <br>
-- 💻 Tech Team Member @ All About Progamming
+- 💻 Tech Team Member @ All About Progamming and WebDeveloper Intern @ Codedu
 - 👨‍💻 My Portfolio : [My_Page](https://parulchaddha.netlify.app/) 
 - 👯 I’m Looking to Collaborate On `Open Source Projects.` <br>
 - 💬 Ask Me About : Anything Related To `D3 - Design, Develop & Deploy.` <br>
@@ -88,9 +88,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parulchaddha&layout=compact&theme=react&hide_border=false" /></a>
 <br /> 
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=parulchaddha&show_icons=true&include_all_commits=true&theme=react&hide_border=false" alt="Puneet Singh" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=parulchaddha&show_icons=true&include_all_commits=true&theme=react&hide_border=false" alt="Parul Chaddha" /></a>
 
 
 <!-- Activity Graph -->
 
-[![Puneet's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=parulchaddha&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Parul's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=parulchaddha&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
