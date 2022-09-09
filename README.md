@@ -15,10 +15,10 @@
 <br /> <br />
 
 <!-- My Portfolio Bars -->
-[<img src="https://img.shields.io/badge/-My_Website-000000?style=social&logo=google"/>](https://parulportfolio.netlify.app/)
+[<img src="https://img.shields.io/badge/-My_Website-000000?style=social&logo=google"/>](https://parulchaddha.netlify.app/)
 
 <!-- Profile Views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parulchaddha" alt="parulchaddha" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parulchaddha" alt="parulchaddha" /> </p> <br />
 
 <!-- Github Streaks Stats -->
 <p align="center">
@@ -35,7 +35,7 @@
 - 🔭 I’m Currently Solving Question on - [Leed Code & Geeks for Geeks]<br>
 - 🌱 I’m Currently Learning `Full Stack Development` <br>
 - 💻 Tech Team Member @ All About Progamming
-- 👨‍💻 My Portfolio : [My_Page](https://parulportfolio.netlify.app/) 
+- 👨‍💻 My Portfolio : [My_Page](https://parulchaddha.netlify.app/) 
 - 👯 I’m Looking to Collaborate On `Open Source Projects.` <br>
 - 💬 Ask Me About : Anything Related To `D3 - Design, Develop & Deploy.` <br>
 - 📄 Know about My Projects : [My_Projects](https://github.com/parulchaddha?tab=repositories)
