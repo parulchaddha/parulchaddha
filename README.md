@@ -32,7 +32,7 @@
 ### <img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23"> Hi Developers <img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23">
 
 *Here Are Some Of The Points to know more about Me :* 
-- 🔭 I’m Currently Solving Question on - [Leed Code & Geeks for Geeks]<br>
+- 🔭 I’m Currently Solving Question on - [LeetCode & Geeks for Geeks]<br>
 - 🌱 I’m Currently Learning `Full Stack Development` <br>
 - 💻 Tech Team Member @ All About Progamming
 - 👨‍💻 My Portfolio : [My_Page](https://parulchaddha.netlify.app/) 
