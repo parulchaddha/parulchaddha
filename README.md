@@ -49,7 +49,7 @@
 <!-- Social Sites & Connecting -->
 ### Connect With Me On - 
 
-<a href="https:https://www.instagram.com/parul_veervanshi/" target="blank" title="Instagram">
+<a href="https://www.instagram.com/parul_veervanshi/" target="blank" title="Instagram">
 	<img align="left" alt="Instagram" height="25px" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
 </a>
 <a href="https://www.linkedin.com/in/parulchaddha0904/" title="LinkedIN">
