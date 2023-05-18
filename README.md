@@ -8,7 +8,6 @@
 
 <!-- Brief Text About Myself -->
 <h4 align="center"> Competitive Programmer | I'm An Full Stack Developer | </h4>
-<h4 align="center"> Tech Member @ All About Programming | Web Developer Intern @ Codedu. </h4> 
  
 <!-- Typing Master Picture --> 
 <img align="right" alt="GIF" src="https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/images/Lady%20Programmer.gif" width="500"/>
