@@ -3,11 +3,11 @@
 
 <!-- Typing SVG -->
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Competitive+Programmer;Tech+Team+Member+%40+All+About+Programming;Web+Developer+-+Intern+%40+Codedu;Aspiring+Full+Stack+Developer;Student+%40+Banasthali+Vidyapith" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Competitive+Programmer;Aspiring+Full+Stack+Developer;Student+%40+Banasthali+Vidyapith" alt="Typing SVG" /></a>
 </p>
 
 <!-- Brief Text About Myself -->
-<h4 align="center"> Competitive Programmer | I'm An Full Stack Developer | </h4>
+<h4 align="center"> Competitive Programmer | I'm An Full Stack Developer  </h4>
  
 <!-- Typing Master Picture --> 
 <img align="right" alt="GIF" src="https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/images/Lady%20Programmer.gif" width="500"/>
