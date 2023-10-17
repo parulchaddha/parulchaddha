@@ -186,11 +186,11 @@ if (codeWorking){
                 codeQuality++;
             }
         }
-// - ROHIT JHA
+//
 ```
 
 <hr />
-<div align="center">
+<!-- <div align="center">
   <i>"Don't ever let somebody tell you, you can't do something! <br><b>You got a dream… You gotta protect it</b>.<br> People can’t do something themselves, they wanna tell you you can’t do it. <br><b>If you want something, go get it. Period</b>"</i>
-</div>
+</div> -->
 
