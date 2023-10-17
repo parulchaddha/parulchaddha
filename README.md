@@ -77,22 +77,3 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25px" height="25px"/>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="25px" height="25px"/>
 <br> <br>
-
-
-<!-- Updated Github Stats -->
-## 📊 Github Statistics
-<br/>	
-
-<!--&theme=buefy&bg_color=0D1117"/></a> -->
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parulchaddha&layout=compact&theme=react&hide_border=false" /></a>
-<br /> 
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=parulchaddha&show_icons=true&include_all_commits=true&theme=react&hide_border=false" alt="Parul Chaddha" /></a>
-
-
-<!-- Activity Graph -->
-
-[![Parul's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=parulchaddha&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### 🐍 Watch Snake eating my contribution:
-![snake svg](https://github.com/parulchaddha/parulchaddha/blob/output/github-contribution-grid-snake.svg)
